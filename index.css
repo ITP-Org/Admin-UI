@@ -1,0 +1,100 @@
+.whole{
+  background-color: #bebac7ac;
+  border-radius: 40px;
+}
+.top h3 {
+  color: #744ecd;
+  font-size: 150%;
+  padding-left: 15%;
+}
+
+.statistics-section {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  padding-top: 10%;
+}
+.statistics-section div {
+  background-color: #8A7BE2;
+  padding: 2%;
+  border-radius: 20px;
+  text-align: center;
+  width: 30%;
+  margin-left: 10%;
+  margin-top: -10%;
+
+}
+.statistics-section div p{
+  color: aliceblue;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.statistics-section div h2{
+  color: azure;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.statistics-section div button{
+  color: #ffffff;
+  background-color: #744ecd;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.top p {
+  color: #744ecd;
+  font-size: 250%;
+  font-family: 'Poppins';
+  font-weight: bold;
+  padding-left: 15%;
+}
+.calender {
+  background-color: #744ecda4;
+border-radius: 40px;
+width: 70%;
+height: 50%;
+padding: 10%;
+margin-left: 10%;
+
+}
+
+.calender .add-event{
+  background-color: #c1c0c0b0;
+  width: 50%;
+  height: 50vh;
+  margin-left: 50%;
+  margin-top: -35%;
+  border-radius: 40px;
+  
+}
+.calender .add-event input{
+  margin: 10% 10% 5%;
+  width: 75%;
+  height: 15%;
+  border-radius: 15px;
+  font-size: 15px;
+  background-color: #ffffff;
+  border: 15px;
+}
+.calender .add-event textarea{
+  margin-left: 10%;
+  width: 75%;
+  height: 15%;
+  border-radius: 15px;
+  
+}
+
+.calender .add-event button{
+  margin-left: 30%;
+  width: 20%;
+  height: 20%;
+  border-radius: 10px;
+  border: none;
+  background-color: #744ecd;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
